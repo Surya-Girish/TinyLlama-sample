@@ -1,0 +1,8 @@
+---Input--------------
+Symptoms :  "Fever, headache, body pain "
+----------------------
+--- Model Response ---
+Possible condition: Influenza (Flu)
+Explanation: Based on the symptoms provided, I conclude that you may have been infected by influenza (flu). Flu is a viral infection spread through respiratory droplets. Symptoms of flu can include fever, cough, sore throat, runny nose, muscle pain, fatigue, and swollen lymph nodes (lymphadenopathy). The disease has caused many deaths worldwide due to its severity and complications. Precautions: Wash hands frequently with soap and water for at least 20 seconds, avoid touching your face, cover your mouth when you cough or sneeze, stay away from sick people, and get vaccinated if recommended by your doctor.
+Note: This is not medical or diagnostic advice. Consult a real doctor for health issues.
+-----------------------
