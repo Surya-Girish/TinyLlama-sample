@@ -5,3 +5,7 @@ Due to computational limitations, the model's behaviour isn't always consistent.
 
 
 NOTE: This is only a sample trial, the diagnosis are not to be used in real life. 
+
+
+https://github.com/user-attachments/assets/2e361711-f021-4a4e-ad96-64f85bfe21d8
+
